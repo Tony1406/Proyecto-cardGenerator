@@ -1,0 +1,50 @@
+body {
+    background-color: green;
+    display: flex;
+    justify-content: center;
+}
+
+.carta {
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+}
+
+.icono1 {
+    display: flex;
+    justify-content: flex-start;
+    width: auto;
+    height: 141px;
+    font-size: 101px;
+    padding-left: 41px;
+}
+
+.icono1 h1 {
+    margin: 8px;
+}
+
+.letra {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: 129px;
+    font-size: 42px;
+}
+
+.icono2 {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    padding: 0px;
+    width: auto;
+    height: 200px;
+    padding-right: 41px;
+    font-size: 101px;
+}
+
+.boton {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
